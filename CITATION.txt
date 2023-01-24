@@ -1,0 +1,6 @@
+@article{wilson-software-carpentry-2006,
+    author =  {Mark Shirley},
+    title =   {stuff},
+    journal = {none},
+    year =    {2023},
+}
